@@ -10,5 +10,5 @@ Python tool to automate server backup from a network-mapped server drive (requir
 - Deletes previous versions based on name (where name includes date)
 
 ## Version History
-    6-10-25: Initial version
-        Future builds: Include ability to monitor robocopy progress. Query DB for hashed credentials to avoid any interfacing (when used with Task Scheduler). 
+6-10-25: Initial version
+- Future builds: Include ability to monitor robocopy progress. Query DB for hashed credentials to avoid any interfacing (when used with Task Scheduler). 
